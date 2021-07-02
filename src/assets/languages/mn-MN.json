@@ -1,0 +1,56 @@
+{
+    "general": {
+      "score": "",
+      "close": "Close",
+      "minute": "Minute",
+      "second": "Second"
+    },
+    "login": {
+      "title": "Нэвтрэх",
+      "account": "Хаяг",
+      "password": "Нууц үг",
+      "login": "Нэвтрэх",
+      "reset": "Арилгах",
+      "loading": "Уншиж байна...",
+      "account_empty": "Нэр хоосон байна!",
+      "password_empty": "Нууц үг хоосон байна!"
+    },
+    "gamebox": {
+      "empty": "Даалгавар одоогоор алга байна",
+      "list": "GameBox жагсаалт",
+      "team": "Баг",
+      "challenge": "Даалгавар",
+      "address": "Хаяг"
+    },
+    "flag": {
+      "submit_flag": "Флаг оруулах",
+      "submit": "оруулах",
+      "input_your_flag": "Флагаа энд оруулна уу..."
+    },
+    "log": {
+      "live_log": "Live Log",
+      "no_data": "No Data",
+      "submit_flag": "{to} [ {challenge} ] was attacked by {from}",
+      "check_down": "{team} [ {challenge} ] уналаа"
+    },
+    "timer": {
+      "not_begin": "Тэмцээн эхлээгүй байна",
+      "pause": "Тэмцээн засварлага авсан байна",
+      "end": "Тэмцээн дууссан",
+      "til_round_end": "Үе {round}:"
+    },
+    "bulletin": {
+      "empty": "Мэдэгдэл байхгүй байна"
+    },
+    "rank": {
+      "rank": "#",
+      "team": "Team",
+      "score": "Score"
+    },
+    "header": {
+      "status": "Gamebox Статус",
+      "rank": "Ранк",
+      "bulletin": "Мэдэгдэл",
+      "logout": "Гарах"
+    }
+  }
